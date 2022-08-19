@@ -1,3 +1,10 @@
+This was a Data Science Project to actualise an algorithm to invest Stocks to earn money.
+
+This is done by taking the different moving averages and writing an algorithm based on a business principle to ensure that one will earn money through stock investments in the stock market.
+
+
+
+
 Contents.
 
 APPLE.CSV:
