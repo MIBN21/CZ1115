@@ -1,4 +1,4 @@
-Contents of the ZIP File.
+Contents.
 
 APPLE.CSV:
 This CSV file returns the Time series Intraday (Daily) of APPLE stock prices.
